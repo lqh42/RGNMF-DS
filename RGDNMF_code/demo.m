@@ -136,7 +136,7 @@ for i = 1:12
 % 
 
 
-     %% L21_Ggssnmf
+     %% RGNMF-DS
 %     para = [];
 %     para.lambda = 0;
 %     para.k = nfeature;
